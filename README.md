@@ -1,42 +1,35 @@
-# Nuxt 3 Minimal Starter
+<div align="center">
+<samp>
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+# vue-template
 
-## Setup
+**Nuxt3 + ESLint + Prettier + TailwindCSS template**
 
-Make sure to install the dependencies:
+</samp>
+</div>
 
-```bash
-# yarn
-yarn install
-
-# npm
-npm install
-
-# pnpm
-pnpm install --shamefully-hoist
-```
-
-## Development Server
-
-Start the development server on http://localhost:3000
+## How to use
 
 ```bash
-npm run dev
+$ git clone git@github.com:airRnot1106/nuxt-template.git
 ```
-
-## Production
-
-Build the application for production:
 
 ```bash
-npm run build
+$ cd nuxt-template
 ```
-
-Locally preview production build:
 
 ```bash
-npm run preview
+$ yarn install
 ```
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+## Development
+
+```bash
+$ yarn run dev
+```
+
+## Build
+
+```bash
+$ yarn run build
+```
