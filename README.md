@@ -1,7 +1,7 @@
 <div align="center">
 <samp>
 
-# vue-template
+# nuxt-template
 
 **Nuxt3 + ESLint + Prettier + TailwindCSS template**
 
